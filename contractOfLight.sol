@@ -49,5 +49,6 @@ contract InkSpot {
     }
 
     receive() external payable {
+        // This function can receive Ether
     }
 } 
